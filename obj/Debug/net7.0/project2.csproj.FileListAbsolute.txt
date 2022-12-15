@@ -1,0 +1,15 @@
+/Users/oussamabechichi/Desktop/CSharp/project2/obj/Debug/net7.0/project2.csproj.AssemblyReference.cache
+/Users/oussamabechichi/Desktop/CSharp/project2/obj/Debug/net7.0/project2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oussamabechichi/Desktop/CSharp/project2/obj/Debug/net7.0/project2.AssemblyInfoInputs.cache
+/Users/oussamabechichi/Desktop/CSharp/project2/obj/Debug/net7.0/project2.AssemblyInfo.cs
+/Users/oussamabechichi/Desktop/CSharp/project2/obj/Debug/net7.0/project2.csproj.CoreCompileInputs.cache
+/Users/oussamabechichi/Desktop/CSharp/project2/bin/Debug/net7.0/project2
+/Users/oussamabechichi/Desktop/CSharp/project2/bin/Debug/net7.0/project2.deps.json
+/Users/oussamabechichi/Desktop/CSharp/project2/bin/Debug/net7.0/project2.runtimeconfig.json
+/Users/oussamabechichi/Desktop/CSharp/project2/bin/Debug/net7.0/project2.dll
+/Users/oussamabechichi/Desktop/CSharp/project2/bin/Debug/net7.0/project2.pdb
+/Users/oussamabechichi/Desktop/CSharp/project2/obj/Debug/net7.0/project2.dll
+/Users/oussamabechichi/Desktop/CSharp/project2/obj/Debug/net7.0/refint/project2.dll
+/Users/oussamabechichi/Desktop/CSharp/project2/obj/Debug/net7.0/project2.pdb
+/Users/oussamabechichi/Desktop/CSharp/project2/obj/Debug/net7.0/project2.genruntimeconfig.cache
+/Users/oussamabechichi/Desktop/CSharp/project2/obj/Debug/net7.0/ref/project2.dll
